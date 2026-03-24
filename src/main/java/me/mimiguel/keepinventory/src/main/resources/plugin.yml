@@ -1,0 +1,9 @@
+name: CustomKeepInventory
+version: 1.0
+main: me.mimiguel.keepinventory.Main
+api-version: '1.21'
+commands:
+  keepinventory:
+    description: Comando principal.
+    aliases: [kp]
+    
