@@ -1,0 +1,13 @@
+name: CustomKeepInventory
+version: 1.0
+main: me.mimiguel.keepinventory.Main
+api-version: '1.21'
+commands:
+  keepinventory:
+    description: Comando principal para KeepInventory.
+    aliases: [kp]
+permissions:
+  keepinventory.admin:
+    description: Permissão para usar os comandos do plugin.
+    default: op
+    
