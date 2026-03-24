@@ -1,4 +1,4 @@
-package me.seu_nome.keepinventory;
+package me.mimiguel.keepinventory;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
