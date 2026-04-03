@@ -1,9 +1,10 @@
 name: CustomKeepInventory
 version: 1.1
-main: me.mimiguel.keepinventory.Main
-api-version: '1.21'
+main: me.miguel.keepinventory.Main
+api-version: 1.21
+authors: [Miguel]
+
 commands:
-  keepinventory:
-    description: Comando principal.
-    aliases: [kp]
+  kp:
+    description: Ativa ou desativa o seu KeepInventory pessoal.
     
