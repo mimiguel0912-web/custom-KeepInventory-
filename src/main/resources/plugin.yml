@@ -1,5 +1,5 @@
 name: CustomKeepInventory
-version: 1.0
+version: 1.1
 main: me.mimiguel.keepinventory.Main
 api-version: '1.21'
 commands:
