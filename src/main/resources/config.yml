@@ -1,2 +1,2 @@
-# Arquivo de salvamento do KeepInventory
-players: []
+# Define se o KeepInventory global está ligado
+keep-inventory-global: false
